@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ed342d4a2d5cd54d89ba415aec64da2, type: 3}
+  m_Name: BatalhasDeDaviLoadData
+  m_EditorClassIdentifier: 
+  backgroundImage: {fileID: 21300000, guid: 9e5ffc7bbacc0bb42b41fbbdc3f3d01a, type: 3}
+  propagandaImage: {fileID: 21300000, guid: 0ad703846afa45547bb329063030fa3b, type: 3}
+  message: "O jogo Davi x Golias \xE9 um sucesso! Obrigado pelos mais de 100.000 downloads.
+    Voc\xEA j\xE1 conhece?"
+  tip: "Voc\xEA pode escolher qualquer ba\xFA para come\xE7ar"
+  title: Batalhas de Davi

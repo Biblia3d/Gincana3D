@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d41437e213ba5dc41a2083a33d34b21e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundImage: {instanceID: 0}
+  - propagandaImage: {instanceID: 0}
+  - messageGameObject: {instanceID: 0}
+  - messageText: {instanceID: 0}
+  - tipGameObject: {instanceID: 0}
+  - tipText: {instanceID: 0}
+  - titleGameObject: {instanceID: 0}
+  - titleText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

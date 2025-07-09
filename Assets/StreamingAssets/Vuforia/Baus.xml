@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Bau01" size="1.000000 0.957638" />
+    <ImageTarget name="Bau02" size="1.000000 0.984355" />
+    <ImageTarget name="Bau03" size="1.000000 0.988111" />
+    <ImageTarget name="Bau04" size="1.000000 0.990850" />
+    <ImageTarget name="Bau05" size="1.000000 0.992116" />
+    <ImageTarget name="Bau06" size="1.000000 0.985545" />
+    <ImageTarget name="Bau07" size="1.000000 0.980341" />
+    <ImageTarget name="Bau08" size="1.000000 0.976774" />
+    <ImageTarget name="Bau09" size="1.000000 0.986894" />
+    <ImageTarget name="Bau10" size="1.000000 0.981771" />
+  </Tracking>
+</QCARConfig>

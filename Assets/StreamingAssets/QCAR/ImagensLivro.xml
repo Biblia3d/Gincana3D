@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Davi_Armadura" size="128.000000 182.507172" />
+    <ImageTarget name="abertura-jogo" size="177.000000 252.576523" />
+    <ImageTarget name="golias-caindo" size="177.000000 251.987762" />
+    <ImageTarget name="golias-armando" size="177.000000 253.168030" />
+    <ImageTarget name="davi-funda" size="177.000000 250.818451" />
+    <ImageTarget name="davi-harpa" size="177.000000 253.762329" />
+  </Tracking>
+</QCARConfig>

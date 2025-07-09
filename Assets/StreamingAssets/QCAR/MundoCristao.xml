@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MorteGolias" size="128.000000 60.273418" />
+    <ImageTarget name="DavixGolias" size="128.000000 214.794525" />
+    <ImageTarget name="DaviArmadura" size="128.000000 215.132523" />
+    <ImageTarget name="Davi" size="128.000000 117.581398" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Soldado2_Marcador" size="128.000000 127.000000" />
+    <ImageTarget name="Soldado1_Marcador" size="128.000000 127.000000" />
+    <ImageTarget name="Pedro_Parede" size="128.000000 128.000000" />
+    <ImageTarget name="Pedro_Marcador" size="128.000000 128.000000" />
+    <ImageTarget name="Moises_Parede" size="128.000000 128.000000" />
+    <ImageTarget name="Moises_Marcador" size="128.000000 127.000000" />
+    <ImageTarget name="Jesus_Site" size="128.000000 122.000000" />
+    <ImageTarget name="Jesus_Parede" size="128.000000 128.000000" />
+    <ImageTarget name="Jesus_Marcador" size="128.000000 128.000000" />
+    <ImageTarget name="Golias_Parede" size="128.000000 128.000000" />
+    <ImageTarget name="Golias_Marcador" size="128.000000 128.000000" />
+    <ImageTarget name="Ebook_Davi_Pag09" size="128.000000 206.965179" />
+    <ImageTarget name="Ebook_Davi_Pag07" size="128.000000 126.000000" />
+    <ImageTarget name="Ebook_Davi_Pag05" size="128.000000 111.000000" />
+    <ImageTarget name="Ebook_Davi_Pag03" size="128.000000 124.750000" />
+    <ImageTarget name="Ebook_Davi_Pag02" size="128.000000 121.500000" />
+    <ImageTarget name="Davi_Parede" size="128.000000 128.000000" />
+    <ImageTarget name="Davi_Marcador" size="128.000000 128.000000" />
+  </Tracking>
+</QCARConfig>

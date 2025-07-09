@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Pag_5" size="177.000000 253.168030" />
+    <ImageTarget name="Pag_4" size="128.000000 183.615250" />
+    <ImageTarget name="Pag_9" size="177.000000 252.576523" />
+    <ImageTarget name="Pag_6" size="128.000000 182.507172" />
+    <ImageTarget name="Pag_7" size="177.000000 251.987762" />
+    <ImageTarget name="Pag_2" size="177.000000 253.762329" />
+    <ImageTarget name="Pag_3" size="177.000000 250.818451" />
+    <ImageTarget name="Pag_1" size="128.000000 186.226486" />
+  </Tracking>
+</QCARConfig>
